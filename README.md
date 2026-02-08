@@ -1,7 +1,13 @@
-#Financial Professional 
+Financial Professional
 
-### Education
-### Work Experience
-### Projects
-- Project One
+======================
 
+## Education
+
+## Work Experience
+
+## Projects
+
+Project One
+
+Project Two
