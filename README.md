@@ -1,6 +1,4 @@
-Financial Professional
-
-======================
+#Financial Professional
 
 ## Education
 
@@ -11,3 +9,4 @@ Financial Professional
 Project One
 
 Project Two
+
