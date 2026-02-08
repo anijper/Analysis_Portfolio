@@ -1,6 +1,4 @@
-#Financial Professional
-
-![Logo](/assets/images/Perez_Anibal-6.jpg)
+# Financial Professional
 
 ## Education
 
@@ -11,4 +9,5 @@
 Project One
 
 Project Two
+
 
