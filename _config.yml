@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Anibal Perez 
-logo: assets/images/Perez_Anibal-6.jpg
+headshot: assets/images/Perez_Anibal-6.jpg
 email: anibal.jperez@outlook.com
 show_downloads: False
 description: >- # this means to ignore newlines until "baseurl:"
