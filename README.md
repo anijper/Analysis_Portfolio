@@ -1,10 +1,18 @@
 # Financial Professional
 
-## Education
-
-## Work Experience
-
-## Projects
+## **Education**
+  Boston University - Masters in Applied Data Analytics\
+  Johnson & Whales University - Bachelors in Finance\
+  CFA Level 2 Candidate\
+  FINRA Series 7 License\
+  FINRA Series 66 License
+  
+## **Work Experience**
+  ![alt text](https://1000logos.net/merrill-lynch-logo) Merrill - Trade Elevation - Senior Investment Specialist (Current)\
+  Merrill - Premium - Investment Consultant\
+  Chase Bank - Associate Banker
+  
+## **Projects**
 
 <details>
   <summary>
@@ -20,6 +28,7 @@
   ##Data Analysis
 </details>
   
+
 
 
 
