@@ -6,8 +6,20 @@
 
 ## Projects
 
-Project One
+<details>
+  <summary>
+    Project One
+  </summary>
+  ##Data Analysis
+</details>
+  
+<details>
+  <summary>
+    Project Two
+  </summary>
+  ##Data Analysis
+</details>
+  
 
-Project Two
 
 
