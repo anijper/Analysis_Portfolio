@@ -1,4 +1,6 @@
-@import "jekyll-theme-tactile";
+---
+---
+@import "{{ site.theme }}";
 .center {
   display: block;
   margin-left: auto;
