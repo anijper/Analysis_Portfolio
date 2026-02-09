@@ -8,7 +8,8 @@
   FINRA Series 66 License
   
 ## **Work Experience**
-  ![alt text](https://1000logos.net/merrill-lynch-logo) Merrill - Trade Elevation - Senior Investment Specialist (Current)\
+  <img src="assets/images/Merrill-Lynch-logo.png" width="100" height="120"> \
+  Merrill - Trade Elevation - Senior Investment Specialist (Current)\
   Merrill - Premium - Investment Consultant\
   Chase Bank - Associate Banker
   
@@ -28,6 +29,7 @@
   ##Data Analysis
 </details>
   
+
 
 
 
