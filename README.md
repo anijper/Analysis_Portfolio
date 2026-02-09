@@ -1,8 +1,9 @@
+<link rel="stylesheet" href="{{ '/assets/css/style.scss}}">
 # Financial Professional
 
 ## **Education**
   Boston University - Masters in Applied Data Analytics\
-  <img src="assets/images/JWU_Brand_Centered_Logo_WEB.jpg" width="130" height="140"> Johnson & Wales University - Bachelors in Finance                                          
+  <img class="logoformating" src="assets/images/JWU_Brand_Centered_Logo_WEB.jpg" width="130" height="140"> Johnson & Wales University - Bachelors in Finance                                          
   CFA Level 2 Candidate\
   FINRA Series 7 License\
   FINRA Series 66 License
@@ -33,6 +34,7 @@
   ##Data Analysis
 </details>
   
+
 
 
 
