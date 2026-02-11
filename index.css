@@ -11,7 +11,7 @@
 .u-section-1 .u-image-1 {
   width: 422px;
   height: 422px;
-  background-image: url("/images/Perez_Anibal-6.jpg");
+  background-image: url("images/Perez_Anibal-6.jpg");
   background-position: 50% 29.88%;
   background-size: 106%;
   margin: -343px auto 0;
@@ -272,7 +272,7 @@
 .u-section-3 .u-image-1 {
   width: 140px;
   height: 140px;
-  background-image: url("/images/Merrill-Lynch-logo1.png");
+  background-image: url("images/Merrill-Lynch-logo1.png");
   background-position: 50% 50%;
   background-size: auto 111%;
   border-style: solid;
@@ -308,7 +308,7 @@
 .u-section-3 .u-image-2 {
   width: 140px;
   height: 140px;
-  background-image: url("/images/Screenshot2026-02-09222557.jpg");
+  background-image: url("images/Screenshot2026-02-09222557.jpg");
   background-position: 0% 20.25%;
   background-size: 103%;
   --border-color-var: #000000cf;
@@ -549,7 +549,7 @@
 .u-section-4 .u-image-1 {
   height: 134px;
   width: 134px;
-  background-image: url("/images/Python_programming_language-Logo.wine.png");
+  background-image: url("images/Python_programming_language-Logo.wine.png");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(245,247,250,0.4);
   margin: 0 auto;
@@ -566,7 +566,7 @@
 .u-section-4 .u-image-2 {
   height: 134px;
   width: 134px;
-  background-image: url("/images/R_programming_language-Logo.wine.png");
+  background-image: url("images/R_programming_language-Logo.wine.png");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(245,247,250,0.4);
   margin: 0 auto;
@@ -583,7 +583,7 @@
 .u-section-4 .u-image-3 {
   height: 134px;
   width: 134px;
-  background-image: url("/images/C-Logo.wine.png");
+  background-image: url("images/C-Logo.wine.png");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(245,247,250,0.4);
   margin: 0 auto;
@@ -600,7 +600,7 @@
 .u-section-4 .u-image-4 {
   height: 134px;
   width: 134px;
-  background-image: url("/images/Microsoft_Excel-Logo.wine.png");
+  background-image: url("images/Microsoft_Excel-Logo.wine.png");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(245,247,250,0.4);
   margin: 0 auto;
@@ -617,7 +617,7 @@
 .u-section-4 .u-image-5 {
   height: 134px;
   width: 134px;
-  background-image: url("/images/FactSet-logo.png");
+  background-image: url("images/FactSet-logo.png");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(245,247,250,0.4);
   margin: 0 auto;
@@ -634,7 +634,7 @@
 .u-section-4 .u-image-6 {
   height: 134px;
   width: 134px;
-  background-image: url("/images/f8861c51f19c5cf3bf091c954f3b7834.png");
+  background-image: url("images/f8861c51f19c5cf3bf091c954f3b7834.png");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(245,247,250,0.4);
   margin: 0 auto;
@@ -927,7 +927,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 411px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("/images/istockphoto-967099380-612x612.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/istockphoto-967099380-612x612.jpg");
 }
 
 @media (max-width: 1199px) {
